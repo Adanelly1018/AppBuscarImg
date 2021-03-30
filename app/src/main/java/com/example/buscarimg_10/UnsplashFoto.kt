@@ -3,7 +3,7 @@ package com.example.buscarimg_10
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
 
-
+//En esta clase trabajamos el json
 @Parcelize
 data class UnsplashFoto
     (
